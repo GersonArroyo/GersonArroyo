@@ -1,16 +1,26 @@
-## Hi there 👋
+# Gerson Francislei
 
-<!--
-**GersonArroyo/GersonArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Engineering
 
-Here are some ideas to get you started:
+Engenheiro de Dados em formação com foco em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Batch Pipelines
+- Streaming
+- Modelagem Dimensional
+- dbt
+- Airflow
+- Python
+
+## 📂 Projetos em Destaque
+
+- fastapi-data-service
+- data-pipeline-template
+
+## 🛠 Stack
+
+Python | SQL | Docker | Airflow | dbt | Postgres
+
+## 📫 Contato
+
+LinkedIn:
+Email:
