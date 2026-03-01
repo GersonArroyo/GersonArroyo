@@ -1,26 +1,58 @@
 # Gerson Francislei
 
-## 🚀 Data Engineering
+## Data Engineer | Batch & Streaming Pipelines
 
-Engenheiro de Dados em formação com foco em:
+Data Engineer in training focused on designing reliable and scalable data architectures.  
+My main interests include batch and streaming pipelines, dimensional modeling, and modern data stack practices.
 
-- Batch Pipelines
-- Streaming
-- Modelagem Dimensional
-- dbt
+---
+
+## Technical Focus
+
+- Batch Data Pipelines
+- Streaming Architectures
+- Dimensional Modeling (Star Schema)
+- Data Warehouse Design
+- Workflow Orchestration
+
+---
+
+## Featured Projects
+
+- **fastapi-data-service**  
+  RESTful API for data ingestion and structured data access.
+
+- **data-pipeline-template**  
+  Modular batch pipeline template with transformation and storage layers.
+
+---
+
+## Technology Stack
+
+**Languages & Processing**
+- Python (Pandas, SQLAlchemy)
+- SQL
+
+**Data & Storage**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+**Orchestration & Transformation**
 - Airflow
-- Python
+- dbt
 
-## 📂 Projetos em Destaque
+**APIs & Data Ingestion**
+- FastAPI
+- Web Scraping
 
-- fastapi-data-service
-- data-pipeline-template
+**Infrastructure**
+- Docker
+- Kubernetes
 
-## 🛠 Stack
+---
 
-Python | SQL | Docker | Airflow | dbt | Postgres | MongoDB | K8S
+## Contact
 
-## 📫 Contato
-
-LinkedIn:
-Email:
+- LinkedIn:  
+- Email:  
