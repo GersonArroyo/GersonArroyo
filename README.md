@@ -18,7 +18,7 @@ Engenheiro de Dados em formação com foco em:
 
 ## 🛠 Stack
 
-Python | SQL | Docker | Airflow | dbt | Postgres
+Python | SQL | Docker | Airflow | dbt | Postgres | MongoDB | K8S
 
 ## 📫 Contato
 
