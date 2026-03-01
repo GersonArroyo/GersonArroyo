@@ -44,7 +44,7 @@ My main interests include batch and streaming pipelines, dimensional modeling, a
 
 **APIs & Data Ingestion**
 - FastAPI
-- Web Scraping
+- Web Scraping(Playwright)
 
 **Infrastructure**
 - Docker
